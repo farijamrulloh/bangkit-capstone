@@ -13,7 +13,7 @@ Here is our repository for Bangkit 2024 Capstone project. Our team consist of 3 
 |Hugo Amadeus Primo Adi| M232D4KY1973 |  Machine Learning|[LinkedIn](https://www.linkedin.com/in/alfendio/)        |
 |David Satriana Putra| M232D4KY1855 | Machine Learning   |[LinkedIn](https://www.linkedin.com/in/natyulius/)       |
 |Framas Tonando| C203D4KY0889 | Cloud Computing |       [LinkedIn](https://www.linkedin.com/in/kartika-okta-rachmawati/)|
-|M. Farij Amrulloh| C358D4KY1287 |  Cloud Computing   | [LinkedIn](www.linkedin.com/in/farijamrulloh)|
+|M. Farij Amrulloh| C358D4KY1287 |  Cloud Computing   | [LinkedIn](https://www.linkedin.com/in/farijamrulloh/)|
 |Abdulloh Haidadr Azzam Ash’shibir| A129D4KY3604 |  Android  Learning Path   |[LinkedIn](https://www.linkedin.com/in/melina-azzahra-212399201/)|
 |M. Dwiky Riza Ardana| A129D4KY4205 |  Android  Learning Path   |[LinkedIn](https://www.linkedin.com/in/melina-azzahra-212399201/)|
 
