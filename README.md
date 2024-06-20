@@ -19,19 +19,19 @@ Here is our repository for Bangkit 2024 Capstone project. Our team consist of 3 
 
 ## About this project
 
-Waras is Application of Prediction COVID-19 Patient Recovery and Quarantine Process Recommendations
+Z Animal Kids is an Application for Education and Predictions on Animals in Zoos
 
 ## Documentation
 
-![WarasApp]()
+![Z Animal Kids]()
 
 ## Repositories
 
 |    Branch Name     |                                      Branch Link                                         |
 | :----------------: | :--------------------------------------------------------------------------------------: |
-| Mobile Development | [MD Branch](https://github.com/yuliusius1/waras-bangkit-capstone-2022/tree/android-dev1) |
-|  Cloud Computing   | [CC Branch](https://github.com/yuliusius1/waras-bangkit-capstone-2022/tree/cc-dev1)      |
-|  Machine Learning  | [ML Branch](https://github.com/yuliusius1/waras-bangkit-capstone-2022/tree/ml-dev)       |
+| Mobile Development | [MD Branch](https://github.com/Dwkyyrz/C241-PS429/tree/cloud-computing) |
+|  Cloud Computing   | [CC Branch](https://github.com/Dwkyyrz/C241-PS429/tree/cloud-computing)      |
+|  Machine Learning  | [ML Branch](https://github.com/Dwkyyrz/C241-PS429/tree/machine-learning)       |
 
 ## Datasets
 
@@ -43,7 +43,7 @@ Dataset Links of This Project :
 
 - Link Figma Design : [Figma](https://www.figma.com/design/EcFva8ofCEUVuqZyTgk5wX/Z-Animal-Kids?node-id=0-1)
 
-## Deployment Link APK Waras
+## Deployment Link APK Z Animal Kids
 
 Download Link APK Waras:<br>
-[WarasAPK (Google Drive)](https://drive.google.com/file/d/1TT83i5cgIjywD-TkX9S5FAONHVOdjDpY/view?usp=sharing)
+[Z Animal Kids APK (Google Drive)](link)
